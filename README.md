@@ -13,6 +13,13 @@
 이때 주최측에서 이미지 특성을 뽑아내는 아키텍처로 ResnNt-18 사용 및  
 추천시스템의 협업 필터링 방식으로 item-based filtering 방식을 사용하도록 조건 부여함  
 
+### 모델 구축 과정  
+
+![image](https://github.com/user-attachments/assets/fc9dfb7b-264f-4689-9518-27b71af8ed3d)  
+![image](https://github.com/user-attachments/assets/2a873150-419e-4979-99f2-c0a6031dc805)  
+
+### 구현 코드    
+
 ![image](https://github.com/user-attachments/assets/2b78f03e-9f13-4bc9-9a0e-a3f3905c27ba)  
 ![image](https://github.com/user-attachments/assets/2f89ea35-2a3e-44e2-921c-d3a70084457a)  
 ![image](https://github.com/user-attachments/assets/b1a12e79-7642-4190-9942-046b9423253d)
