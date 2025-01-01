@@ -2,12 +2,12 @@
 2024 데이터 크리에이터 캠프  
 5주간의 기간동안 8차시의 교육영상과 함께 주어지는 과제 수행  
 
-## Project timeline    
+## project timeline    
 
-| Type      | Dead Line  |  
+| type      | time line  |  
 |-----------|------------|  
-| Lecture   | 10/26(토)  |   
-| Mission   | 10/31(목)  |   
+| lecture   | 9/23(Mon) ~ 10/26(Sat) |   
+| mission   | 9/23(Mon) ~ 10/31(Thu) |   
 
 ---  
 
